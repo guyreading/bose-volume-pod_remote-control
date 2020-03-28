@@ -10,8 +10,8 @@ The wiring for the stepper motor and IR sensor is straight-forward.
 A video showing the set-up can be found [here](https://www.youtube.com/watch?v=74JBGCSBqmY "Volume control video")
 
 Hardware:
-..* Nema 17 Stepper Motor
-..* KY-022 Infrared IR Sensor
+-> Nema 17 Stepper Motor
+-> KY-022 Infrared IR Sensor
 
 
 
