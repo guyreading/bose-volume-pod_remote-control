@@ -5,9 +5,12 @@ This project is to control your bose volume control pod using a TV remote contro
 
 2. Mapping the vol up and vol down hex keys to the stepper motor clockwise and anti-clockwise movement ("remote control").
 
+
 The wiring for the stepper motor and IR sensor is straight-forward. 
 
+
 A video showing the set-up can be found [here](https://www.youtube.com/watch?v=74JBGCSBqmY "Volume control video")
+
 
 Hardware:
 
