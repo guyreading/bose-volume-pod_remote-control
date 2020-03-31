@@ -9,9 +9,9 @@ This project is to control your bose volume control pod using a TV remote contro
 The wiring for the stepper motor and IR sensor is straight-forward/can be deduced from the pins used in the code, although I am planning on putting a wire diagram up soon. 
 
 
-A video showing the set-up can be found [here](https://www.youtube.com/watch?v=74JBGCSBqmY "Volume control video")
+A video showing the set-up can be found [here](https://www.youtube.com/watch?v=74JBGCSBqmY "Volume control video").
 
-This code depends on [arduino-IRremote](https://github.com/z3t0/Arduino-IRremote)
+This code depends on [arduino-IRremote](https://github.com/z3t0/Arduino-IRremote).
 
 
 Hardware:
